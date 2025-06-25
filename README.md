@@ -14,3 +14,6 @@ This repository contains two main components developed for our final-year engine
 ├── cdae_classifier.h5   # Pretrained model for ECG signal classification
 ├── main.py              # Terminal-based chatbot using Groq's LLaMA 3 API
 └── README.md            # Project documentation
+
+## note:
+i have updated another version of main.py file which is the chat file as a new version of llm that serve a japaneses language learners 
